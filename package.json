@@ -1,0 +1,26 @@
+{
+  "name": "marjorie",
+  "version": "1.0.0",
+  "description": "jslibrary",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/marjmekk/myfirstpackage-it122"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjmekk/myfirstpackage-it122.git"
+  },
+  "keywords": [
+    "firstproject"
+  ],
+  "author": "marjorie mekkhavong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marjmekk/myfirstpackage-it122/issues"
+  },
+  "homepage": "https://github.com/marjmekk/myfirstpackage-it122#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0"
+  }
+}
